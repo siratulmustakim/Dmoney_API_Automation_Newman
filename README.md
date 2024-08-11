@@ -30,4 +30,3 @@ Clone this project. Then run the follwing commands
 ## Newman Report:
 ![postman](https://github.com/siratulmustakim/Dmoney_API_Automation_Newman/assets/46200508/29e69164-b8bd-4cb0-a1c9-56f8674d26f7)
 
-# TEST
